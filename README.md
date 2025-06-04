@@ -1,4 +1,6 @@
-Technology: Assembly Language
+A platform that can manage student grades easily
+
+Tech: Assembly Language
 
 
-[Get a quick view](https://drive.google.com/file/d/1ej1OvEhVAouajYonY4SYtgGJHIGrb2ll/view?usp=drive_link)
+[Quick view](https://drive.google.com/file/d/1ej1OvEhVAouajYonY4SYtgGJHIGrb2ll/view?usp=drive_link)
